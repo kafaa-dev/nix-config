@@ -104,6 +104,7 @@
   # };
 
   # List services that you want to enable:
+  services.cloudflare-warp.enable = true;
 
   # Enable the OpenSSH daemon.
   # services.openssh.enable = true;
