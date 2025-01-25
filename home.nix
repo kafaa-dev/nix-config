@@ -67,4 +67,5 @@
   # cli tools
   programs.bat.enable = true;
   programs.eza.enable = true;
+  programs.ripgrep.enable = true;
 }
