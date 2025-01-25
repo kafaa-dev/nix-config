@@ -41,6 +41,7 @@
 
     # drawing
     gimp
+    aseprite
 
     # cli tools
     ffmpeg_6-full
