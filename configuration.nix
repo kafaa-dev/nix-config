@@ -121,6 +121,9 @@
   # Fonts
   fonts.packages = with pkgs; [
     jetbrains-mono
+
+    # nerd fonts
+    nerd-fonts.jetbrains-mono
   ];
 
   # Copy the NixOS configuration file and link it from the resulting system
