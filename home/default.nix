@@ -23,5 +23,6 @@
     ./shell
     ./programs
     ./editors
+    ./xdg.nix
   ];
 }
