@@ -47,6 +47,9 @@
     kiwix
     qbittorrent
 
+    # programming languages
+    go
+
     # cli tools
     ffmpeg_6-full
   ];
