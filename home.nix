@@ -39,6 +39,9 @@
     # messaging apps
     telegram-desktop
 
+    # drawing
+    gimp
+
     # cli tools
     ffmpeg_6-full
   ];
