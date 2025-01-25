@@ -45,6 +45,7 @@
 
     # archive-related tools
     kiwix
+    qbittorrent
 
     # cli tools
     ffmpeg_6-full
