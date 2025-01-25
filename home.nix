@@ -41,5 +41,6 @@
   # git
   programs.git = {
     enable = true;
+    userName = "Kafaa Billahi Syahida";
   };
 }
