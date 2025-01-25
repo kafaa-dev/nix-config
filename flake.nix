@@ -12,7 +12,7 @@
 
     nixosConfigurations.nixos-mint = nixpkgs.lib.nixosSystem {
       modules = [
-        ./configuration.nix
+        ./nixos/configuration.nix
 
         home-manager.nixosModules.home-manager
         {
