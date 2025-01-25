@@ -18,7 +18,7 @@
         {
           home-manager.useGlobalPkgs = true;
           home-manager.useUserPackages = true;
-          home-manager.users.kafaa = import ./home.nix;
+          home-manager.users.kafaa = import ./home;
 
           # Optionally, use home-manager.extraSpecialArgs to pass
           # arguments to home.nix
