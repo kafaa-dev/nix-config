@@ -23,4 +23,9 @@
   home.packages = with pkgs; [
     bitwarden-desktop
   ];
+
+  # shell
+  programs.fish = {
+    enable = true;
+  };
 }
