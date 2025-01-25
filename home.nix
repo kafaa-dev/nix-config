@@ -50,6 +50,8 @@
     # programming languages
     go
 
+    php84
+
     # cli tools
     ffmpeg_6-full
   ];
