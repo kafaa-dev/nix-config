@@ -6,6 +6,6 @@
     vlc
 
     # cli tools
-    ffmpeg_6-full
+    ffmpeg-full
   ];
 }
