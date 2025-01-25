@@ -59,4 +59,7 @@
 
   # apps
   programs.vscode.enable = true;
+
+  # cli tools
+  programs.bat.enable = true;
 }
