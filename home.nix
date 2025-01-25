@@ -43,6 +43,9 @@
     gimp
     aseprite
 
+    # archive-related tools
+    kiwix
+
     # cli tools
     ffmpeg_6-full
   ];
