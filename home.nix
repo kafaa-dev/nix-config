@@ -43,6 +43,7 @@
     enable = true;
     userName = "Kafaa Billahi Syahida";
     userEmail = "kafaa.id@proton.me";
+    signing.signByDefault = true;
     extraConfig = {
       init.defaultBranch = "main";
     };
