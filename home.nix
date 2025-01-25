@@ -43,5 +43,8 @@
     enable = true;
     userName = "Kafaa Billahi Syahida";
     userEmail = "kafaa.id@proton.me";
+    extraConfig = {
+      init.defaultBranch = "main";
+    };
   };
 }
