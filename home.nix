@@ -27,6 +27,7 @@
     vlc
 
     # note-taking apps
+    anytype
     obsidian
 
     # web browsers
