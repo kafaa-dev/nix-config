@@ -22,6 +22,9 @@
   # packages
   home.packages = with pkgs; [
     bitwarden-desktop
+
+    # web browsers
+    google-chrome
   ];
 
   # shell
