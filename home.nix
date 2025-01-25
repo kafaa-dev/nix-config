@@ -28,6 +28,9 @@
 
     # web browsers
     google-chrome
+
+    # cli tools
+    ffmpeg_6-full
   ];
 
   # shell
