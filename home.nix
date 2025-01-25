@@ -53,6 +53,8 @@
     php84
     php84Packages.composer
 
+    nodejs_22
+
     # cli tools
     ffmpeg_6-full
   ];
