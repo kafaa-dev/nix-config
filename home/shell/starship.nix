@@ -7,6 +7,9 @@
       battery = {
         disabled = true;
       };
+      character = {
+        success_symbol = "[➜](bold green)";
+      };
     };
   };
 }
