@@ -23,6 +23,9 @@
   home.packages = with pkgs; [
     bitwarden-desktop
 
+    # media players
+    vlc
+
     # web browsers
     google-chrome
   ];
