@@ -30,6 +30,9 @@
     anytype
     obsidian
 
+    # office suite
+    libreoffice
+
     # web browsers
     google-chrome
 
