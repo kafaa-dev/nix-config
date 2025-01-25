@@ -26,6 +26,9 @@
     # media players
     vlc
 
+    # note-taking apps
+    obsidian
+
     # web browsers
     google-chrome
 
