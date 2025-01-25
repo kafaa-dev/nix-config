@@ -36,6 +36,9 @@
     # web browsers
     google-chrome
 
+    # messaging apps
+    telegram-desktop
+
     # cli tools
     ffmpeg_6-full
   ];
