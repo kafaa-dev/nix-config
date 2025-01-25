@@ -27,6 +27,10 @@
   # shell
   programs.fish = {
     enable = true;
+
+    shellAliases = {
+      ls = "eza";
+    };
   };
 
   programs.starship = {
