@@ -51,6 +51,7 @@
     go
 
     php84
+    php84Packages.composer
 
     # cli tools
     ffmpeg_6-full
