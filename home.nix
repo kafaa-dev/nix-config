@@ -42,5 +42,6 @@
   programs.git = {
     enable = true;
     userName = "Kafaa Billahi Syahida";
+    userEmail = "kafaa.id@proton.me";
   };
 }
