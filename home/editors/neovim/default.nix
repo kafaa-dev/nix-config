@@ -1,9 +1,7 @@
 { config, pkgs, ... }:
 
-let
-  configPath = "${config.home.homeDirectory}/Repos/kafaa-dev/nix-config/home/editors/neovim/nvim";
-in {
-  xdg.configFile."nvim".source = config.lib.file.mkOutOfStoreSymlink configPath;
+{
+  xdg.configFile."nvim".source = ./nvim;
 
   programs.neovim = {
     enable = true;
