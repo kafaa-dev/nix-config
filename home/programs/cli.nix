@@ -6,4 +6,6 @@
   programs.eza.enable = true;
 
   programs.ripgrep.enable = true;
+
+  programs.zoxide.enable = true;
 }
