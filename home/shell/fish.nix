@@ -8,6 +8,10 @@
       ls = "eza";
     };
 
+    interactiveShellInit = ''
+      set fish_greeting
+    '';
+
     plugins = [
       {
         name = "artisan";
