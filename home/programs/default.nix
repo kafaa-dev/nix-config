@@ -8,6 +8,7 @@
     ./graphics.nix
     ./programming.nix
     ./web-browsers.nix
+    ./communication.nix
   ];
 
   # packages
@@ -20,9 +21,6 @@
 
     # office suite
     libreoffice
-
-    # messaging apps
-    telegram-desktop
 
     # archive-related tools
     kiwix
