@@ -8,6 +8,7 @@
     php84Packages.composer
 
     nodejs_22
+    pnpm
   ];
 
   # programming languages
