@@ -128,6 +128,9 @@
   # Virtualization
   virtualisation.virtualbox.host.enable = true;
 
+  virtualisation.virtualbox.host.enableKvm = true;
+  virtualisation.virtualbox.host.addNetworkInterface = false;
+
   users.extraGroups.vboxusers.members = [ "kafaa" ];
 
   # Copy the NixOS configuration file and link it from the resulting system
