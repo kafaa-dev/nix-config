@@ -108,6 +108,11 @@
   # List services that you want to enable:
   services.cloudflare-warp.enable = true;
 
+  services.mysql = {
+    enable = true;
+    package = pkgs.mariadb;
+  };
+
   # Enable the OpenSSH daemon.
   # services.openssh.enable = true;
 
