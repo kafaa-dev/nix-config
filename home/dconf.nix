@@ -17,7 +17,6 @@
         "panel1:right:0:systray@cinnamon.org:3"
         "panel1:right:1:xapp-status@cinnamon.org:4"
         "panel1:right:2:notifications@cinnamon.org:5"
-        "panel1:right:3:printers@cinnamon.org:6"
         "panel1:right:4:removable-drives@cinnamon.org:7"
         "panel1:right:5:keyboard@cinnamon.org:8"
         "panel1:right:6:favorites@cinnamon.org:9"
