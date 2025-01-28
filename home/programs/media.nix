@@ -5,6 +5,9 @@
     # media players
     vlc
 
+    # video editing
+    kdePackages.kdenlive
+
     # cli tools
     ffmpeg-full
   ];
