@@ -6,7 +6,7 @@
     "org/cinnamon" = {
       "favorite-apps" = [
         "cinnamon-settings.desktop"
-        "org.gnome.Terminal.desktop"
+        "com.mitchellh.ghostty.desktop"
         "nemo.desktop"
       ];
     };
