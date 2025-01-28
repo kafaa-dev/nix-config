@@ -4,13 +4,13 @@
   dconf.settings = {
     # Cinnamon
     "org/cinnamon" = {
-      "favorite-apps" = [
+      favorite-apps = [
         "cinnamon-settings.desktop"
         "com.mitchellh.ghostty.desktop"
         "nemo.desktop"
       ];
 
-      "enabled-applets" = [
+      enabled-applets = [
         "panel1:left:0:menu@cinnamon.org:0"
         "panel1:left:1:separator@cinnamon.org:1"
         "panel1:left:2:grouped-window-list@cinnamon.org:2"
@@ -29,13 +29,13 @@
     };
 
     "org/cinnamon/theme" = {
-      "name" = "Mint-Y-Dark-Blue";
+      name = "Mint-Y-Dark-Blue";
     };
 
     "org/cinnamon/desktop/interface" = {
-      "gtk-theme" = "Mint-Y-Blue";
-      "icon-theme" = "Mint-Y-Blue";
-      "cursor-theme" = "Bibata-Modern-Classic";
+      gtk-theme = "Mint-Y-Blue";
+      icon-theme = "Mint-Y-Blue";
+      cursor-theme = "Bibata-Modern-Classic";
     };
 
     "org/cinnamon/desktop/applications/terminal" = {
@@ -44,8 +44,8 @@
 
     # GNOME
     "org/gnome/desktop/interface" = {
-      "gtk-theme" = "Mint-Y-Blue";
-      "icon-theme" = "Mint-Y-Blue";
+      gtk-theme = "Mint-Y-Blue";
+      icon-theme = "Mint-Y-Blue";
     };
   };
 }
