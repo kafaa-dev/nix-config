@@ -2,6 +2,8 @@
 
 {
   home.packages = with pkgs; [
+    gcc
+
     go
 
     php84
