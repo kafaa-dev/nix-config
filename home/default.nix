@@ -24,5 +24,6 @@
     ./programs
     ./editors
     ./xdg.nix
+    ./dconf.nix
   ];
 }
