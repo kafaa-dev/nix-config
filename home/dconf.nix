@@ -46,10 +46,18 @@
       disable-while-typing = false;
     };
 
+    "org/cinnamon/desktop/wm/preferences" = {
+      mouse-button-modifier = "<Super>";
+    };
+
     # GNOME
     "org/gnome/desktop/interface" = {
       gtk-theme = "Mint-Y-Blue";
       icon-theme = "Mint-Y-Blue";
+    };
+
+    "org/gnome/desktop/wm/preferences" = {
+      mouse-button-modifier = "<Super>";
     };
   };
 }
