@@ -45,7 +45,9 @@
 
   services.displayManager.defaultSession = "cinnamon";
 
-  
+  environment.cinnamon.excludePackages = with pkgs; [
+    blueman
+  ];
 
   # Configure keymap in X11
   # services.xserver.xkb.layout = "us";
