@@ -88,6 +88,8 @@
 
   programs.fish.enable = true;
 
+  programs.dconf.enable = true;
+
   # programs.firefox.enable = true;
 
   # List packages installed in system profile. To search, run:
