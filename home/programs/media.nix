@@ -8,6 +8,9 @@
     # video editing
     kdePackages.kdenlive
 
+    # audio editing + recording
+    audacity
+
     # cli tools
     ffmpeg-full
   ];
