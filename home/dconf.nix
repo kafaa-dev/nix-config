@@ -42,6 +42,10 @@
       exec = "ghostty";
     };
 
+    "org/cinnamon/desktop/peripherals/touchpad" = {
+      disable-while-typing = false;
+    };
+
     # GNOME
     "org/gnome/desktop/interface" = {
       gtk-theme = "Mint-Y-Blue";
