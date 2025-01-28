@@ -48,6 +48,7 @@
   environment.cinnamon.excludePackages = with pkgs; [
     blueman
     celluloid
+    warpinator
   ];
 
   # Configure keymap in X11
