@@ -47,6 +47,7 @@
 
   environment.cinnamon.excludePackages = with pkgs; [
     blueman
+    celluloid
   ];
 
   # Configure keymap in X11
