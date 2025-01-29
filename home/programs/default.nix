@@ -15,6 +15,9 @@
   home.packages = with pkgs; [
     bitwarden-desktop
 
+    # clipboard manager
+    copyq
+
     # note-taking apps
     anytype
     obsidian
