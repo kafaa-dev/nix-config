@@ -8,8 +8,8 @@
 
     go
 
-    php84
-    php84Packages.composer
+    php83
+    php83Packages.composer
 
     nodejs_22
     pnpm
