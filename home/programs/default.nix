@@ -28,5 +28,6 @@
     # archive-related tools
     kiwix
     qbittorrent
+    unzip
   ];
 }
