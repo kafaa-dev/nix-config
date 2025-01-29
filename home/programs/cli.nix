@@ -8,4 +8,6 @@
   programs.ripgrep.enable = true;
 
   programs.zoxide.enable = true;
+
+  programs.gitui.enable = true;
 }
