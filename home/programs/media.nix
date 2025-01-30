@@ -17,4 +17,9 @@
 
   # video recording + live streaming
   programs.obs-studio.enable = true;
+
+  # media player
+  programs.mpv = {
+    enable = true;
+  };
 }
