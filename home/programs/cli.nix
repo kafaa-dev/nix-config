@@ -1,6 +1,10 @@
 { config, pkgs, ... }:
 
 {
+  home.packages = with pkgs; [
+    xclip
+  ];
+
   programs.bat.enable = true;
 
   programs.eza.enable = true;
