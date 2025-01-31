@@ -6,6 +6,8 @@
     clang-tools
     gnumake
 
+    zig
+
     go
 
     php83
