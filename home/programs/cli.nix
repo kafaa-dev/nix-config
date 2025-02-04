@@ -14,4 +14,6 @@
   programs.zoxide.enable = true;
 
   programs.gitui.enable = true;
+
+  programs.tmux.enable = true;
 }
