@@ -22,6 +22,7 @@
     prefix = "C-Space";
     plugins = with pkgs; [
       tmuxPlugins.sensible
+      tmuxPlugins.catppuccin
     ];
     extraConfig = ''
       # Use Alt-arrow keys without prefix key to switch panes
