@@ -18,6 +18,7 @@
   programs.tmux = {
     enable = true;
     mouse = true;
+    prefix = "C-Space";
     plugins = with pkgs; [
       tmuxPlugins.sensible
     ];
