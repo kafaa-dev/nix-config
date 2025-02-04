@@ -15,5 +15,10 @@
 
   programs.gitui.enable = true;
 
-  programs.tmux.enable = true;
+  programs.tmux = {
+    enable = true;
+    plugins = with pkgs; [
+      tmuxPlugins.sensible
+    ];
+  };
 }
