@@ -11,5 +11,7 @@
 
     colorscheme = "vscode";
     colorschemes.vscode.enable = true;
+
+    clipboard.register = "unnamedplus";
   };
 }
