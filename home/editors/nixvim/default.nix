@@ -8,5 +8,8 @@
   programs.nixvim = {
     enable = true;
     defaultEditor = true;
+
+    colorscheme = "vscode";
+    colorschemes.vscode.enable = true;
   };
 }
