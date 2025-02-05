@@ -15,6 +15,7 @@
     clipboard.register = "unnamedplus";
 
     imports = [
+      ./keymaps
       ./opts.nix
       ./highlights.nix
     ];
