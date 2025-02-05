@@ -10,5 +10,14 @@
         desc = "toggle line number";
       };
     }
+
+    {
+      action = "<cmd>set rnu!<CR>";
+      key = "<leader>rn";
+      mode = "n";
+      options = {
+        desc = "toggle relative number";
+      };
+    }
   ];
 }
