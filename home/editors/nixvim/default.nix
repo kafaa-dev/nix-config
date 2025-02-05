@@ -13,5 +13,9 @@
     colorschemes.vscode.enable = true;
 
     clipboard.register = "unnamedplus";
+
+    imports = [
+      ./opts.nix
+    ];
   };
 }
