@@ -3,6 +3,6 @@
 {
   imports = [
     ./vscode
-    ./neovim
+    ./nixvim
   ];
 }
