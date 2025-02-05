@@ -18,6 +18,7 @@
       ./keymaps
       ./opts.nix
       ./highlights.nix
+      ./plugins
     ];
   };
 }
