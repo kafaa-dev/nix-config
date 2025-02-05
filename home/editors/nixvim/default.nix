@@ -16,6 +16,7 @@
 
     imports = [
       ./opts.nix
+      ./highlights.nix
     ];
   };
 }
