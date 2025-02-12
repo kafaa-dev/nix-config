@@ -6,7 +6,7 @@
     "org/cinnamon" = {
       favorite-apps = [
         "cinnamon-settings.desktop"
-        "com.mitchellh.ghostty.desktop"
+        "org.gnome.Terminal.desktop"
         "nemo.desktop"
       ];
 
@@ -39,7 +39,7 @@
     };
 
     "org/cinnamon/desktop/applications/terminal" = {
-      exec = "ghostty";
+      exec = "gnome-terminal";
     };
 
     "org/cinnamon/desktop/peripherals/touchpad" = {
