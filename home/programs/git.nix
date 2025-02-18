@@ -18,4 +18,5 @@
 
   services.gpg-agent.enable = true;
   services.gpg-agent.pinentryPackage = pkgs.pinentry-gnome3;
+  services.gpg-agent.defaultCacheTtl = 7200; # 2 hours
 }
