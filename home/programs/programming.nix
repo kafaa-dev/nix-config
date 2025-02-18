@@ -12,6 +12,7 @@
 
     php83
     php83Packages.composer
+    intelephense
 
     nodejs_22
     pnpm
