@@ -29,5 +29,8 @@
     kiwix
     qbittorrent
     unzip
+
+    # offline translation
+    python312Packages.argostranslate
   ];
 }
