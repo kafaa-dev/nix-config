@@ -33,5 +33,6 @@
     # offline translation
     python312Packages.argostranslate
     python312Packages.sacremoses
+    python312Packages.libretranslate
   ];
 }
