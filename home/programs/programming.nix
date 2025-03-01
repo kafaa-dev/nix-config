@@ -2,6 +2,8 @@
 
 {
   home.packages = with pkgs; [
+    nixd
+
     gcc
     clang-tools
     gnumake
