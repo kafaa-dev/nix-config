@@ -7,7 +7,7 @@
       key = "<leader>/";
       mode = "n";
       options = {
-      remap = true;
+        remap = true;
         desc = "toggle comment";
       };
     }
@@ -17,7 +17,7 @@
       key = "<leader>/";
       mode = "v";
       options = {
-      remap = true;
+        remap = true;
         desc = "toggle comment";
       };
     }
