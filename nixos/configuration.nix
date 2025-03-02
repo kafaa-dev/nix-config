@@ -52,6 +52,7 @@
     plasma-browser-integration
     elisa
     kate
+    konsole
   ];
 
   services.displayManager.defaultSession = "plasmax11";
