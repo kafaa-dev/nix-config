@@ -34,4 +34,7 @@
 
   # auto pairs
   plugins.nvim-autopairs.enable = true;
+
+  # formatter
+  plugins.conform-nvim.enable = true;
 }
