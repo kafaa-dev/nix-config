@@ -45,17 +45,16 @@
 
   # Enable the X11 windowing system.
   services.xserver.enable = true;
-  services.displayManager.sddm.enable = true;
-  services.desktopManager.plasma6.enable = true;
+  services.xserver.displayManager.lightdm.enable = true;
+  services.xserver.desktopManager.cinnamon.enable = true;
 
-  environment.plasma6.excludePackages = with pkgs.kdePackages; [
-    plasma-browser-integration
-    elisa
-    kate
-    konsole
+  services.displayManager.defaultSession = "cinnamon";
+
+  environment.cinnamon.excludePackages = with pkgs; [
+    blueman
+    celluloid
+    warpinator
   ];
-
-  services.displayManager.defaultSession = "plasmax11";
 
   # Configure keymap in X11
   # services.xserver.xkb.layout = "us";
