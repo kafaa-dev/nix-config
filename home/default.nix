@@ -23,7 +23,6 @@
     ./shell
     ./programs
     ./editors
-    ./plasma
     ./xdg.nix
     ./dconf.nix
   ];
