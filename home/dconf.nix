@@ -6,7 +6,7 @@
     "org/cinnamon" = {
       favorite-apps = [
         "cinnamon-settings.desktop"
-        "org.gnome.Terminal.desktop"
+        "org.wezfurlong.wezterm.desktop"
         "nemo.desktop"
       ];
 
