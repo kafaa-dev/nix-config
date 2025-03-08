@@ -39,7 +39,7 @@
     };
 
     "org/cinnamon/desktop/applications/terminal" = {
-      exec = "gnome-terminal";
+      exec = "wezterm";
     };
 
     "org/cinnamon/desktop/peripherals/touchpad" = {
