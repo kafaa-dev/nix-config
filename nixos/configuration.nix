@@ -138,6 +138,7 @@
 
   # Fonts
   fonts.packages = with pkgs; [
+    inter
     jetbrains-mono
 
     # nerd fonts
