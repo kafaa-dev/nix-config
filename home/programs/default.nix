@@ -34,6 +34,9 @@
     # sync files and directories to and from cloud storage
     rclone
 
+    # client-side encryption for files stored in cloud storage
+    cryptomator
+
     # offline translation
     python312Packages.argostranslate
     python312Packages.sacremoses
