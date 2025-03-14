@@ -31,6 +31,9 @@
     qbittorrent
     unzip
 
+    # sync files and directories to and from cloud storage
+    rclone
+
     # offline translation
     python312Packages.argostranslate
     python312Packages.sacremoses
