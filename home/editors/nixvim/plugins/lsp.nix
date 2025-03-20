@@ -8,6 +8,9 @@
     enable = true;
 
     servers = {
+      # c
+      clangd.enable = true;
+
       # shell scripting
       bashls.enable = true;
 
