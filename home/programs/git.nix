@@ -4,8 +4,8 @@
   programs.git = {
     enable = true;
     userName = "Kafaa Billahi Syahida";
-    userEmail = "kafaa.id@proton.me";
-    signing.key = "3A4F1BBD6EF9A6B9"; # 2025 - NixOS
+    userEmail = "kafaa.developer@gmail.com";
+    signing.key = "F0B89D340D1AE705"; # 2025 March - NixOS
     signing.signByDefault = true;
     extraConfig = {
       init.defaultBranch = "main";
