@@ -122,6 +122,8 @@
   # List services that you want to enable:
   services.cloudflare-warp.enable = true;
 
+  services.gnome.gnome-online-accounts.enable = true;
+
   services.mysql = {
     enable = true;
     package = pkgs.mariadb;
