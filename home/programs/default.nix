@@ -19,7 +19,6 @@
     copyq
 
     # note-taking apps
-    affine-bin
     anytype
     obsidian
 
