@@ -26,10 +26,10 @@
     enable = true;
     package = (
       pkgs.bun.overrideAttrs rec {
-        version = "1.2.0";
+        version = "1.2.5";
         passthru.sources."x86_64-linux" = pkgs.fetchurl {
           url = "https://github.com/oven-sh/bun/releases/download/bun-v${version}/bun-linux-x64-baseline.zip";
-          hash = "sha256-L76ihYOsWLvMgeY1zjUp0tw9N8RjuItrGUEz/sngO+4=";
+          hash = "sha256-DmHnkysLY7dBYCjaS+hHlWLha4gLOo4Htu1FfW0DIuM=";
         };
         src = passthru.sources."x86_64-linux";
       }
