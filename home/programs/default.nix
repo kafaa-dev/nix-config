@@ -19,7 +19,6 @@
     copyq
 
     # note-taking apps
-    anytype
     obsidian
 
     # office suite
