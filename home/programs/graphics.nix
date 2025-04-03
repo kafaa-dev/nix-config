@@ -5,5 +5,7 @@
     gimp
     inkscape
     aseprite
+
+    d2 # diagrams
   ];
 }
