@@ -35,6 +35,9 @@
     # client-side encryption for files stored in cloud storage
     cryptomator
 
+    # clock application (includes world clocks, alarms, a stopwatch, and timers)
+    gnome-clocks
+
     # offline translation
     python312Packages.argostranslate
     python312Packages.sacremoses
