@@ -21,8 +21,9 @@
     # note-taking apps
     obsidian
 
-    # office suite
+    # office suites
     libreoffice
+    onlyoffice-desktopeditors
 
     # archive-related tools
     kiwix
