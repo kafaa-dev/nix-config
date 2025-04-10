@@ -23,6 +23,12 @@
   # Define on which hard drive you want to install Grub.
   boot.loader.grub.device = "/dev/sda"; # or "nodev" for efi only
 
+  boot.resumeDevice = "/dev/disk/by-uuid/2e375e5f-f138-4f2d-9756-e9b28711adcd";
+  boot.kernelParams = [
+    "resume=UUID=2e375e5f-f138-4f2d-9756-e9b28711adcd"
+    "resume_offset=35614720"
+  ];
+
   networking.hostName = "nixos-mint"; # Define your hostname.
   # Pick only one of the below networking options.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
