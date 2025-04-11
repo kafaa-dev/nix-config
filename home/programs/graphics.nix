@@ -8,5 +8,7 @@
     aseprite
 
     d2 # diagrams
+
+    imagemagick
   ];
 }
