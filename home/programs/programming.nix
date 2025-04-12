@@ -19,6 +19,8 @@
 
     nodejs_22
     pnpm
+
+    dbeaver-bin # sql client
   ];
 
   # programming languages
