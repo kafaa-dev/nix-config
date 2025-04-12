@@ -12,6 +12,10 @@
     };
   };
 
+  home.packages = with pkgs; [
+    git-filter-repo
+  ];
+
   programs.gh.enable = true;
 
   programs.gpg.enable = true;
