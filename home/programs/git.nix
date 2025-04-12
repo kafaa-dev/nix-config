@@ -10,6 +10,10 @@
     extraConfig = {
       init.defaultBranch = "main";
     };
+
+    diff-so-fancy = {
+      enable = true;
+    };
   };
 
   home.packages = with pkgs; [
