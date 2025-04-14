@@ -14,6 +14,7 @@
   # packages
   home.packages = with pkgs; [
     bitwarden-desktop
+    authenticator
 
     # clipboard manager
     copyq
