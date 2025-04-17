@@ -155,6 +155,7 @@
     jetbrains-mono
 
     corefonts
+    vista-fonts
 
     # nerd fonts
     nerd-fonts.jetbrains-mono
