@@ -135,6 +135,8 @@
     package = pkgs.mariadb;
   };
 
+  virtualisation.docker.enable = true;
+
   # Enable the OpenSSH daemon.
   # services.openssh.enable = true;
 
