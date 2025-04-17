@@ -9,11 +9,6 @@
 
     nixvim.url = "github:nix-community/nixvim";
     nixvim.inputs.nixpkgs.follows = "nixpkgs";
-
-    winapps = {
-      url = "github:winapps-org/winapps";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
   };
 
   outputs =
@@ -21,7 +16,6 @@
       self,
       nixpkgs,
       home-manager,
-      winapps,
       ...
     }:
     {
@@ -43,22 +37,6 @@
               inherit inputs;
             };
           }
-
-          (
-            { ... }:
-            {
-              # set up binary cache (optional)
-              nix.settings = {
-                substituters = [ "https://winapps.cachix.org/" ];
-                trusted-public-keys = [ "winapps.cachix.org-1:HI82jWrXZsQRar/PChgIx1unmuEsiQMQq+zt05CD36g=" ];
-              };
-
-              environment.systemPackages = [
-                winapps.packages."x86_64-linux".winapps
-                winapps.packages."x86_64-linux".winapps-launcher # optional
-              ];
-            }
-          )
         ];
       };
 
