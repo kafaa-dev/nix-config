@@ -154,6 +154,8 @@
     inter
     jetbrains-mono
 
+    corefonts
+
     # nerd fonts
     nerd-fonts.jetbrains-mono
   ];
