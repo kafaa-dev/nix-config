@@ -159,6 +159,7 @@
     # nerd fonts
     nerd-fonts.jetbrains-mono
   ];
+  fonts.fontDir.enable = true;
 
   swapDevices = [
     {
