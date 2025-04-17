@@ -97,10 +97,7 @@
 
   users.users.kafaa = {
     isNormalUser = true;
-    extraGroups = [
-      "wheel" # Enable ‘sudo’ for the user.
-      "docker"
-    ];
+    extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
     shell = pkgs.fish;
   };
 
@@ -137,8 +134,6 @@
     enable = true;
     package = pkgs.mariadb;
   };
-
-  virtualisation.docker.enable = true;
 
   # Enable the OpenSSH daemon.
   # services.openssh.enable = true;
