@@ -39,7 +39,7 @@
     };
 
     "org/cinnamon/desktop/applications/terminal" = {
-      exec = "wezterm";
+      exec = "wezterm start --cwd .";
     };
 
     "org/cinnamon/desktop/peripherals/touchpad" = {
