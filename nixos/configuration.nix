@@ -130,6 +130,8 @@
 
   services.gnome.gnome-online-accounts.enable = true;
 
+  services.flatpak.enable = true;
+
   services.mysql = {
     enable = true;
     package = pkgs.mariadb;
