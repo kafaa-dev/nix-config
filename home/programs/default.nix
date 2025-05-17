@@ -48,5 +48,8 @@
 
     # offline LLMs
     ollama
+
+    # RSS reader
+    newsflash
   ];
 }
