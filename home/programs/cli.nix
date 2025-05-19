@@ -5,6 +5,8 @@
     xclip
 
     file
+
+    sqlite-interactive
   ];
 
   programs.bat.enable = true;
