@@ -3,6 +3,8 @@
 {
   home.packages = with pkgs; [
     xclip
+
+    file
   ];
 
   programs.bat.enable = true;
