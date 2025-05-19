@@ -6,6 +6,8 @@
 
     file
 
+    whois
+
     sqlite-interactive
   ];
 
