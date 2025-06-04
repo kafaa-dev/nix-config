@@ -35,9 +35,6 @@
     # sync files and directories to and from cloud storage
     rclone
 
-    # client-side encryption for files stored in cloud storage
-    cryptomator
-
     # clock application (includes world clocks, alarms, a stopwatch, and timers)
     gnome-clocks
 
