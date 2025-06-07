@@ -23,6 +23,9 @@
     anytype
     obsidian
 
+    # todo list and time tracking
+    super-productivity
+
     # office suites
     libreoffice
     onlyoffice-desktopeditors
