@@ -13,6 +13,9 @@
 
     # cli tools
     ffmpeg-full
+
+    # webcam capture
+    snapshot
   ];
 
   # video recording + live streaming
