@@ -51,5 +51,8 @@
 
     # RSS reader
     newsflash
+
+    # e-book management
+    calibre
   ];
 }
