@@ -18,6 +18,7 @@
     intelephense
     frankenphp
 
+    deno
     nodejs_22
     pnpm
 
