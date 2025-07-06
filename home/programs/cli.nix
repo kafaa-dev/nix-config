@@ -6,6 +6,8 @@
 
     file
 
+    wget
+
     whois
 
     sqlite-interactive
