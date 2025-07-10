@@ -26,6 +26,8 @@
         "panel1:right:10:calendar@cinnamon.org:13"
         "panel1:right:11:cornerbar@cinnamon.org:14"
       ];
+
+      desktop-effects-workspace = false;
     };
 
     "org/cinnamon/theme" = {
