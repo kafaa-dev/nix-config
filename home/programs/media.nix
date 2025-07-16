@@ -5,9 +5,6 @@
     # media players
     vlc
 
-    # video editing
-    kdePackages.kdenlive
-
     # audio editing + recording
     audacity
 
