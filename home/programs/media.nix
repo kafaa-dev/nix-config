@@ -13,6 +13,9 @@
 
     # webcam capture
     snapshot
+
+    # screencasting
+    vokoscreen-ng
   ];
 
   # video recording + live streaming
