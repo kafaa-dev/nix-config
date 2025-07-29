@@ -20,7 +20,7 @@
     }:
     {
 
-      nixosConfigurations.nixos-mint = nixpkgs.lib.nixosSystem {
+      nixosConfigurations.nixos = nixpkgs.lib.nixosSystem {
         modules = [
           ./nixos/configuration.nix
 
