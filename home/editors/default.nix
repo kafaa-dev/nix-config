@@ -5,4 +5,8 @@
     ./vscode
     ./nixvim
   ];
+
+  home.packages = with pkgs; [
+    windsurf
+  ];
 }
