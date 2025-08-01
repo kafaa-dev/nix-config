@@ -7,6 +7,7 @@
     ./media.nix
     ./graphics.nix
     ./programming.nix
+    ./input-method.nix
     ./web-browsers.nix
     ./communication.nix
   ];
