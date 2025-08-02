@@ -132,6 +132,7 @@
   fonts.packages = with pkgs; [
     inter
     jetbrains-mono
+    ibm-plex
 
     corefonts
     vista-fonts
