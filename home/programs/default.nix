@@ -36,7 +36,6 @@
 
     # archive-related tools
     kiwix
-    qbittorrent
     unzip
 
     # sync files and directories to and from cloud storage
