@@ -5,7 +5,6 @@
     gimp
     krita
     inkscape
-    aseprite
 
     d2 # diagrams
 
