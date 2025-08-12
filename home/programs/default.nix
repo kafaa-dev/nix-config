@@ -20,6 +20,9 @@
     # clipboard manager
     copyq
 
+    # flashcards
+    anki
+
     # note-taking apps
     anytype
     obsidian
