@@ -50,9 +50,6 @@
     python312Packages.sacremoses
     python312Packages.libretranslate
 
-    # offline LLMs
-    ollama
-
     # RSS reader
     newsflash
 
