@@ -45,9 +45,6 @@
     # clock application (includes world clocks, alarms, a stopwatch, and timers)
     gnome-clocks
 
-    # offline translation
-    python312Packages.libretranslate
-
     # RSS reader
     newsflash
 
