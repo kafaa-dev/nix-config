@@ -35,7 +35,6 @@
     onlyoffice-desktopeditors
 
     # archive-related tools
-    kiwix
     unzip
 
     # sync files and directories to and from cloud storage
