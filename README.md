@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I decided to stop open-sourcing further updates. This repository will no longer receive updates and is kept for archival purposes.
+
 # :snowflake: My NixOS configuration
 
 This repository contains my personal NixOS configuration with Home Manager.
